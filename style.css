@@ -1,0 +1,55 @@
+p{
+
+    color: #1ABC9C;
+    /*color:rgb(0,0,255)*/
+   font-size: 2em;
+    font-family: Arial;
+    font-weight: bold;
+    text-align: center;
+}
+   /* color:rgba(red, green, blue, alpha);*/
+ /* font-size: 30px; */
+
+    /*
+    serif
+    sans-serif 
+    cursive
+    */
+h1{
+   color: red;
+}
+div div p{
+                          font-size: 15px;
+                          color: grey;
+}
+/*
+*{
+    border: 2px solid black;
+}
+*/
+special-paragraphe{
+    color: orange;
+}
+#unique{
+    font-size: 80px;
+/*
+}
+selector:pseudo-class{
+    property:value;
+}
+
+a:link{
+    color: red;
+}
+a:visited{
+       color: black;
+}
+a:hover{
+     color: orchid;
+}
+
+div ul :fist-chirl {
+
+    font-size: 30px;
+}
+  */
